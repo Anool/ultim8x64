@@ -1606,7 +1606,7 @@ F 9 "Digikey" H 3175 16075 60  0001 L CNN "Field9"
 F 10 "399-1168-1-ND" H 3175 16175 60  0001 L CNN "Field10"
 F 11 "http://www.digikey.com/product-detail/en/C0805C104K3RACTU/399-1168-1-ND/411443" H 3175 16275 60  0001 L CNN "Field11"
 	1    3175 15375
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L C_POL_1 C2
@@ -2016,7 +2016,7 @@ F 9 "Digikey" H 3575 16075 60  0001 L CNN "Field9"
 F 10 "399-1168-1-ND" H 3575 16175 60  0001 L CNN "Field10"
 F 11 "http://www.digikey.com/product-detail/en/C0805C104K3RACTU/399-1168-1-ND/411443" H 3575 16275 60  0001 L CNN "Field11"
 	1    3575 15375
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L C_POL_1 C1
